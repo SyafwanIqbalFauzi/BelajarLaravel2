@@ -1,1 +1,2 @@
 ini file buat belajar pull
+push ah
